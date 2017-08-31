@@ -16,3 +16,4 @@ List of hyphenated tags that are used to manage all my github repositories
 * read
 * pasteBin
 * nonTesting
+*architecture tree
