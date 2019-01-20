@@ -10,3 +10,6 @@ List of hyphenated tags that are used to manage all my github repositories
 * ady-knowledgesharing
 * ady-leadership
 * ady-personalbranding
+* ady-coding
+* ady-python
+* ady-csharp
