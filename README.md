@@ -8,4 +8,5 @@ List of hyphenated tags that are used to manage all my github repositories
 * ady-machinelearning
 * ady-datascience
 * ady-knowledgesharing
-*
+* ady-leadership
+* ady-personalbranding
