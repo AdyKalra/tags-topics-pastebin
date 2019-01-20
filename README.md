@@ -14,3 +14,4 @@ List of hyphenated tags that are used to manage all my github repositories
 * ady-python
 * ady-csharp
 * ady-database
+* ady-visualization
