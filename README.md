@@ -6,4 +6,6 @@ List of hyphenated tags that are used to manage all my github repositories
 * ady-utilities
 * ady-cloud
 * ady-machinelearning
-* 
+* ady-datascience
+* ady-knowledgesharing
+*
