@@ -2,7 +2,9 @@
 List of hyphenated tags that are used to manage all my github repositories
 
 #### Cloud
-* ady-cloud
+* ady-aws
+* ady-gcp
+* ady-azure
 
 #### Tools 
 * ady-tools
